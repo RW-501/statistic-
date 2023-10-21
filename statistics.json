@@ -1,0 +1,590 @@
+{
+    "statistics": [
+        {
+            "phrase": "emails sent",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Communication",
+            "explanation": "The number of emails sent globally in one second, reflecting the rapid pace of digital communication."
+        },
+        {
+            "phrase": "trees cut down",
+            "time": 15,
+            "interval": "second",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The rate at which trees are being cut down worldwide, highlighting deforestation concerns."
+        },
+        {
+            "phrase": "new cars produced",
+            "time": 60,
+            "interval": "second",
+            "type": "count",
+            "category": "Automotive",
+            "explanation": "The number of new cars manufactured globally in one second, illustrating the automotive industry's output."
+        },
+        {
+            "phrase": "dollars spent on online shopping",
+            "time": 5,
+            "interval": "second",
+            "type": "money",
+            "category": "E-commerce",
+            "explanation": "The amount of money spent on online shopping every second, reflecting the growth of e-commerce."
+        },
+        {
+            "phrase": "text messages sent",
+            "time": 2,
+            "interval": "second",
+            "type": "count",
+            "category": "Communication",
+            "explanation": "The number of text messages sent in just two seconds, showcasing rapid mobile communication."
+        },
+        {
+            "phrase": "cups of coffee consumed",
+            "time": 10,
+            "interval": "second",
+            "type": "count",
+            "category": "Food & Beverage",
+            "explanation": "The rate at which people consume coffee, a widely enjoyed beverage."
+        },
+        {
+            "phrase": "pizzas consumed",
+            "time": 2,
+            "interval": "minute",
+            "type": "count",
+            "category": "Food & Beverage",
+            "explanation": "The number of pizzas consumed globally in two minutes, highlighting the popularity of pizza."
+        },
+        {
+            "phrase": "new books published",
+            "time": 5,
+            "interval": "minute",
+            "type": "count",
+            "category": "Literature",
+            "explanation": "The rate at which new books are published, showcasing literary production."
+        },
+        {
+            "phrase": "tweets posted",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Social Media",
+            "explanation": "The rapid-fire pace of tweets being posted on social media every second."
+        },
+        {
+            "phrase": "plastic bottles used",
+            "time": 10,
+            "interval": "second",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The rate at which plastic bottles are used, reflecting environmental concerns."
+        },
+        {
+            "phrase": "electricity consumed",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Energy",
+            "explanation": "The amount of electricity consumed globally in just one second, showing energy demand."
+        },
+        {
+            "phrase": "emails sent",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Communication",
+            "explanation": "The number of emails sent globally in one second, reflecting the rapid pace of digital communication."
+        },
+        {
+            "phrase": "trees cut down",
+            "time": 15,
+            "interval": "second",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The rate at which trees are being cut down worldwide, highlighting deforestation concerns."
+        },
+        {
+            "phrase": "new cars produced",
+            "time": 60,
+            "interval": "second",
+            "type": "count",
+            "category": "Automotive",
+            "explanation": "The number of new cars manufactured globally in one second, illustrating the automotive industry's output."
+        },
+        {
+            "phrase": "dollars spent on online shopping",
+            "time": 5,
+            "interval": "second",
+            "type": "money",
+            "category": "E-commerce",
+            "explanation": "The amount of money spent on online shopping every second, reflecting the growth of e-commerce."
+        },
+        {
+            "phrase": "text messages sent",
+            "time": 2,
+            "interval": "second",
+            "type": "count",
+            "category": "Communication",
+            "explanation": "The number of text messages sent in just two seconds, showcasing rapid mobile communication."
+        },
+        {
+            "phrase": "cups of coffee consumed",
+            "time": 10,
+            "interval": "second",
+            "type": "count",
+            "category": "Food & Beverage",
+            "explanation": "The rate at which people consume coffee, a widely enjoyed beverage."
+        },
+        {
+            "phrase": "pizzas consumed",
+            "time": 2,
+            "interval": "minute",
+            "type": "count",
+            "category": "Food & Beverage",
+            "explanation": "The number of pizzas consumed globally in two minutes, highlighting the popularity of pizza."
+        },
+        {
+            "phrase": "new books published",
+            "time": 5,
+            "interval": "minute",
+            "type": "count",
+            "category": "Literature",
+            "explanation": "The rate at which new books are published, showcasing literary production."
+        },
+        {
+            "phrase": "tweets posted",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Social Media",
+            "explanation": "The rapid-fire pace of tweets being posted on social media every second."
+        },
+        {
+            "phrase": "plastic bottles used",
+            "time": 10,
+            "interval": "second",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The rate at which plastic bottles are used, reflecting environmental concerns."
+        },
+        {
+            "phrase": "electricity consumed",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Energy",
+            "explanation": "The amount of electricity consumed globally in just one second, showing energy demand."
+        },
+        {
+            "phrase": "books sold",
+            "time": 3,
+            "interval": "second",
+            "type": "count",
+            "category": "Literature",
+            "explanation": "The number of books sold worldwide in three seconds, depicting reading habits."
+        },
+        {
+            "phrase": "bicycles produced",
+            "time": 45,
+            "interval": "second",
+            "type": "count",
+            "category": "Transportation",
+            "explanation": "The rate of bicycle production globally in 45 seconds, reflecting eco-friendly transportation."
+        },
+        {
+            "phrase": "people using social media",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Social Media",
+            "explanation": "The number of people actively using social media platforms every second, highlighting the digital age."
+        },
+        {
+            "phrase": "plastic waste in the oceans",
+            "time": 60,
+            "interval": "second",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The rate at which plastic waste accumulates in the world's oceans every minute, emphasizing environmental challenges."
+        },
+        {
+            "phrase": "new software applications developed",
+            "time": 1,
+            "interval": "minute",
+            "type": "count",
+            "category": "Technology",
+            "explanation": "The number of new software applications developed every minute, showcasing technological advancements."
+        },
+        {
+            "phrase": "kilograms of food wasted",
+            "time": 2,
+            "interval": "minute",
+            "type": "count",
+            "category": "Food & Beverage",
+            "explanation": "The amount of food wasted globally in just two minutes, emphasizing food sustainability issues."
+        },
+        {
+            "phrase": "new medical research papers published",
+            "time": 10,
+            "interval": "minute",
+            "type": "count",
+            "category": "Health",
+            "explanation": "The rate at which new medical research papers are published, highlighting advancements in healthcare."
+        },
+        {
+            "phrase": "dollars spent on online advertising",
+            "time": 30,
+            "interval": "second",
+            "type": "money",
+            "category": "Advertising",
+            "explanation": "The amount of money spent on online advertising in just 30 seconds, reflecting the digital marketing industry."
+        },
+        {
+            "phrase": "revenue from streaming services",
+            "time": 1,
+            "interval": "second",
+            "type": "money",
+            "category": "Entertainment",
+            "explanation": "The revenue generated from streaming services like music and video every second, highlighting the digital entertainment market."
+        },
+        {
+            "phrase": "investments in renewable energy",
+            "time": 60,
+            "interval": "second",
+            "type": "money",
+            "category": "Energy",
+            "explanation": "The investments made in renewable energy projects worldwide in one minute, emphasizing sustainability efforts."
+        },
+        {
+            "phrase": "global pharmaceutical sales",
+            "time": 10,
+            "interval": "minute",
+            "type": "money",
+            "category": "Health",
+            "explanation": "The total sales revenue of pharmaceutical products globally in ten minutes, showcasing the pharmaceutical industry's scale."
+        },
+        {
+            "phrase": "online retail revenue",
+            "time": 3,
+            "interval": "second",
+            "type": "money",
+            "category": "E-commerce",
+            "explanation": "The revenue generated from online retail sales in just three seconds, reflecting the e-commerce sector's growth."
+        },
+        {
+            "phrase": "profits of tech giants",
+            "time": 5,
+            "interval": "second",
+            "type": "money",
+            "category": "Technology",
+            "explanation": "The combined profits of major technology companies every five seconds, illustrating the tech industry's financial power."
+        },
+        {
+            "phrase": "investment in space exploration",
+            "time": 300,
+            "interval": "second",
+            "type": "money",
+            "category": "Space",
+            "explanation": "The investments made in space exploration projects worldwide in just five minutes, emphasizing space research."
+        },
+        {
+            "phrase": "global video game industry revenue",
+            "time": 1,
+            "interval": "second",
+            "type": "money",
+            "category": "Gaming",
+            "explanation": "The revenue generated by the global video game industry every second, showcasing the gaming sector's financial impact."
+        },
+        {
+            "phrase": "currency exchanged in forex market",
+            "time": 1,
+            "interval": "second",
+            "type": "money",
+            "category": "Finance",
+            "explanation": "The value of currency exchanged in the foreign exchange (forex) market every second, reflecting international financial transactions."
+        },
+        {
+            "phrase": "investments in clean energy projects",
+            "time": 5,
+            "interval": "minute",
+            "type": "money",
+            "category": "Energy",
+            "explanation": "The investments made in clean and sustainable energy projects globally in five minutes, highlighting green energy initiatives."
+        },
+        {
+            "phrase": "emails sent",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Communication",
+            "explanation": "The number of emails sent globally in one second, reflecting the rapid pace of digital communication."
+        },
+        {
+            "phrase": "new cars produced",
+            "time": 60,
+            "interval": "second",
+            "type": "count",
+            "category": "Automotive",
+            "explanation": "The number of new cars manufactured globally in one second, illustrating the automotive industry's output."
+        },
+        {
+            "phrase": "dollars spent on online shopping",
+            "time": 5,
+            "interval": "second",
+            "type": "money",
+            "category": "E-commerce",
+            "explanation": "The amount of money spent on online shopping every second, reflecting the growth of e-commerce."
+        },
+        {
+            "phrase": "tweets posted",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Social Media",
+            "explanation": "The rapid-fire pace of tweets being posted on social media every second."
+        },
+        {
+            "phrase": "electricity consumed",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Energy",
+            "explanation": "The amount of electricity consumed globally in just one second, showing energy demand."
+        },
+        {
+            "phrase": "dollars spent on fast food",
+            "time": 100,
+            "interval": "second",
+            "type": "money",
+            "category": "Food & Beverage",
+            "explanation": "The money spent on fast food purchases every 100 seconds, reflecting fast food consumption."
+        },
+        {
+            "phrase": "people born",
+            "time": 1,
+            "interval": "hour",
+            "type": "count",
+            "category": "Demographics",
+            "explanation": "The number of people born globally in one hour, highlighting demographic changes."
+        },
+        {
+            "phrase": "kilograms of waste generated",
+            "time": 1,
+            "interval": "day",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The amount of waste generated worldwide in one day, emphasizing waste management challenges."
+        },
+        {
+            "phrase": "dollars spent on healthcare",
+            "time": 1000,
+            "interval": "day",
+            "type": "money",
+            "category": "Health",
+            "explanation": "The amount of money spent on healthcare services and products every 1000 seconds, reflecting the healthcare industry's financial scale."
+        },
+        {
+            "phrase": "new patents granted",
+            "time": 1,
+            "interval": "day",
+            "type": "count",
+            "category": "Innovation",
+            "explanation": "The number of new patents granted globally in one day, showcasing innovation and intellectual property."
+        },
+        {
+            "phrase": "steps taken",
+            "time": 10,
+            "interval": "second",
+            "type": "count",
+            "category": "Health & Fitness",
+            "explanation": "The number of steps taken by people worldwide in 10 seconds, reflecting physical activity levels."
+        },
+        {
+            "phrase": "gallons of water used",
+            "time": 1,
+            "interval": "minute",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The volume of water used globally in one minute, highlighting water consumption."
+        },
+        {
+            "phrase": "languages spoken",
+            "time": 15,
+            "interval": "second",
+            "type": "count",
+            "category": "Culture",
+            "explanation": "The number of languages spoken around the world in 15 seconds, showcasing linguistic diversity."
+        },
+        {
+            "phrase": "patents filed",
+            "time": 10,
+            "interval": "second",
+            "type": "count",
+            "category": "Innovation",
+            "explanation": "The number of patent applications filed globally in 10 seconds, reflecting innovative ideas."
+        },
+        {
+            "phrase": "barrels of oil consumed",
+            "time": 2,
+            "interval": "minute",
+            "type": "count",
+            "category": "Energy",
+            "explanation": "The volume of oil consumed worldwide in just two minutes, illustrating oil usage."
+        },
+        {
+            "phrase": "hours spent online",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Technology",
+            "explanation": "The total hours spent online by internet users every second, reflecting digital engagement."
+        },
+        {
+            "phrase": "acres of forest regrown",
+            "time": 5,
+            "interval": "minute",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The area of forest regrown globally in five minutes, emphasizing reforestation efforts."
+        },
+        {
+            "phrase": "people accessing clean water",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The number of people gaining access to clean drinking water every second, showcasing water access improvements."
+        },
+        {
+            "phrase": "coins minted",
+            "time": 30,
+            "interval": "second",
+            "type": "count",
+            "category": "Economy",
+            "explanation": "The number of coins minted by national mints worldwide in 30 seconds, reflecting currency production."
+        },
+        {
+            "phrase": "research papers published",
+            "time": 1,
+            "interval": "hour",
+            "type": "count",
+            "category": "Education",
+            "explanation": "The number of research papers published globally in one hour, highlighting academic research output."
+        },
+        {
+            "phrase": "emails sent",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Communication",
+            "explanation": "The number of emails sent globally in one second, reflecting the rapid pace of digital communication."
+        },
+        {
+            "phrase": "new cars produced",
+            "time": 60,
+            "interval": "second",
+            "type": "count",
+            "category": "Automotive",
+            "explanation": "The number of new cars manufactured globally in one second, illustrating the automotive industry's output."
+        },
+        {
+            "phrase": "dollars spent on online shopping",
+            "time": 5,
+            "interval": "second",
+            "type": "money",
+            "category": "E-commerce",
+            "explanation": "The amount of money spent on online shopping every second, reflecting the growth of e-commerce."
+        },
+        {
+            "phrase": "tweets posted",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Social Media",
+            "explanation": "The rapid-fire pace of tweets being posted on social media every second."
+        },
+        {
+            "phrase": "electricity consumed",
+            "time": 1,
+            "interval": "second",
+            "type": "count",
+            "category": "Energy",
+            "explanation": "The amount of electricity consumed globally in just one second, showing energy demand."
+        },
+        {
+            "phrase": "dollars spent on fast food",
+            "time": 100,
+            "interval": "second",
+            "type": "money",
+            "category": "Food & Beverage",
+            "explanation": "The money spent on fast food purchases every 100 seconds, reflecting fast food consumption."
+        },
+        {
+            "phrase": "people born",
+            "time": 1,
+            "interval": "hour",
+            "type": "count",
+            "category": "Demographics",
+            "explanation": "The number of people born globally in one hour, highlighting demographic changes."
+        },
+        {
+            "phrase": "kilograms of waste generated",
+            "time": 1,
+            "interval": "day",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The amount of waste generated worldwide in one day, emphasizing waste management challenges."
+        },
+        {
+            "phrase": "dollars spent on healthcare",
+            "time": 1000,
+            "interval": "day",
+            "type": "money",
+            "category": "Health",
+            "explanation": "The amount of money spent on healthcare services and products every 1000 seconds, reflecting the healthcare industry's financial scale."
+        },
+        {
+            "phrase": "new patents granted",
+            "time": 1,
+            "interval": "day",
+            "type": "count",
+            "category": "Innovation",
+            "explanation": "The number of new patents granted globally in one day, showcasing innovation and intellectual property."
+        },
+        {
+            "phrase": "laptops sold",
+            "time": 30,
+            "interval": "second",
+            "type": "count",
+            "category": "Technology",
+            "explanation": "The number of laptops sold globally in 30 seconds, reflecting consumer technology trends."
+        },
+        {
+            "phrase": "meals served in restaurants",
+            "time": 5,
+            "interval": "minute",
+            "type": "count",
+            "category": "Food & Beverage",
+            "explanation": "The number of meals served in restaurants worldwide in five minutes, showcasing the hospitality industry."
+        },
+        {
+            "phrase": "trees planted",
+            "time": 15,
+            "interval": "minute",
+            "type": "count",
+            "category": "Environment",
+            "explanation": "The rate at which trees are planted globally in 15 minutes, emphasizing reforestation efforts."
+        },
+        {
+            "phrase": "new scientific discoveries published",
+            "time": 1,
+            "interval": "hour",
+            "type": "count",
+            "category": "Science",
+            "explanation": "The number of new scientific discoveries published in one hour, reflecting advancements in research."
+        }
+    ]
+}
+
+
